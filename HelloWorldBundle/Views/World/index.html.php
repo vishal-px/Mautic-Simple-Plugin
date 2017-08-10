@@ -3,10 +3,6 @@
 
 // Extend the base content
 $view->extend('MauticCoreBundle:Default:content.html.php');
-//$view['slots']->set('mauticContent', 'helloWorldDetails');
-$view['slots']->set('headerTitle', $view['translator']->trans('plugin.helloworld.world'));
-
-$view->extend('MauticCoreBundle:Default:content.html.php');
 
 // Get tmpl from sub-template
 $tmpl = $view['slots']->get('tmpl', 'Details');
