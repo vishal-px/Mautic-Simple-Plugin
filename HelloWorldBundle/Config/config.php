@@ -31,7 +31,8 @@ return array(
 	
 	 'main' => array(
             'plugin.helloworld.world' => array(
-                'route'        => 'plugin_helloworld_world',
+                'id'        => 'plugin_helloworld_world',
+		//'route'        => 'plugin_helloworld_world',
                 'access'    => 'plugin:helloworld:worlds:view',
                	'parent'    => 'mautic.core.channels',
                 'priority'  => 3
