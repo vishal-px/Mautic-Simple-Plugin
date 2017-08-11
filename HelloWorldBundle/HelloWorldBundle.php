@@ -7,3 +7,4 @@ class HelloWorldBundle extends PluginBundleBase
 {
 	
 }
+ 
