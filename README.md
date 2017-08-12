@@ -1,5 +1,6 @@
 # Mautic-Simple-Plugin
 
+<<<<<<< HEAD
 Simple Helloworld Mautic Plugin With Menu In Admin Panel.
 
 
@@ -10,3 +11,6 @@ Simple Helloworld Mautic Plugin With Menu In Admin Panel.
 
 
 Loding view : Work in progress.
+=======
+Simple Helloworld Mautic Plugin.
+>>>>>>> 498558db52f545850be15199ad9aa0b17f01f748

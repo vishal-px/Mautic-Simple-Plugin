@@ -20,9 +20,17 @@ return array(
 	'menu' => array(	
 	 'main' => array(
             'plugin.helloworld.world' => array(
+<<<<<<< HEAD
                 'route'     => 'mautic_helloworld_world',
                	'iconClass' => 'fa-gear',
                 'priority'  => 8
+=======
+                'id'        => 'plugin_helloworld_world',
+		//'route'        => 'plugin_helloworld_world',
+                'access'    => 'plugin:helloworld:worlds:view',
+               	'parent'    => 'mautic.core.channels',
+                'priority'  => 3
+>>>>>>> 498558db52f545850be15199ad9aa0b17f01f748
             )
         )
     ),
