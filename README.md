@@ -1,6 +1,6 @@
 # Mautic-Simple-Plugin
 
-<<<<<<< HEAD
+<< HEAD
 Simple Helloworld Mautic Plugin With Menu In Admin Panel.
 
 
